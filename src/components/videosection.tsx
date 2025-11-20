@@ -1,5 +1,7 @@
 "use client";
 
+import videojs from "video.js";
+
 import { useEffect, useState } from "react";
 
 export default function VideoSection() {
